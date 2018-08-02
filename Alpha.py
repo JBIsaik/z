@@ -37,4 +37,4 @@ async def on_ready():
     print(f'Alpha reporting for duty!')
 
 
-bot.run('')
+bot.run('NDU3ODE2OTMwMjQyMjY1MTAw.Dge0kw.l9CGYh0o6ajZ6YzJby9bp_bcvQs')
